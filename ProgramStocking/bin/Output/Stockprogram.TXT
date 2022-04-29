@@ -1,0 +1,10 @@
+001 charge_cable 0 
+002 protect_film 0 
+003 case 0 
+004 earphone 0 
+005 airpod 0 
+006 cleaning_paper 0 
+007 adapter 0 
+008 jooystick 0 
+009 loudspeaker 0 
+010 microphone 0 
